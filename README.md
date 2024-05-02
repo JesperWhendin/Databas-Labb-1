@@ -1,2 +1,3 @@
-# Databas-Labb-1
-Labb 1 i Utveckling mot Databaser och Databasadministration.
+# Labb 1 - SQL-Databas för Bokhandel
+
+https://github.com/JesperWhendin/Utveckling-mot-Databaser-och-Databashantering-NET23/blob/main/assets/Labb1.md
